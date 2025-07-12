@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+📫 How to reach me: <a href='mailto:jasperc.wk@gmail.com'>jasperc.wk@gmail.com</a>
 <!--
 **Jasperc2024/Jasperc2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
